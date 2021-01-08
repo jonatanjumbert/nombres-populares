@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <title>Learn Colors easily!</title>
+    <meta name="description" content="Help your children to learn basic colors in several languages easily."> 
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+            <img src="https://raw.githubusercontent.com/jonatanjumbert/learn-colors/gh-pages/assets/css/colores-icon.png" alt="Download Learn Colors from App Store" />
+          
+          {% if site.show_downloads %}
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.jonatanjumbert.aprendecolores" class="button ios" title="Download Learn Colors! from App Store">
+              <img style="margin-left: 0px" src="https://raw.githubusercontent.com/jonatanjumbert/timesapp-party/gh-pages/assets/css/app-store-badge.svg" alt="Download Learn Colors from App Store" />
+            </a>
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.jonatanjumbert.aprendecolores" class="button google" title="Download Learn Colors! from Google Play">
+              <img style="margin-left: 0px" src="https://raw.githubusercontent.com/jonatanjumbert/timesapp-party/gh-pages/assets/css/google-play-badge.svg" alt="Download Learn Colors from Play Store" />
+            </a>
+          {% endif %}
+        </aside>
+      </div>
+    </div>
+  </body>
+</html>
