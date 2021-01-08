@@ -1,10 +1,10 @@
-# Privacy policy
+# Política de Privacidad
 
-No info is collected, just needed for displaying ads. For questions, problems or suggestions you can contact us via comment on the App Store or Google Play Store.
+No se recolecta ningún tipo de información, simplemente la necesaria para poder mostrar anuncios. Para preguntas, problemas o sugerencias puedes contactar con nosotros dejando un comentario en la App Store o Play Store, te contestaremos a la mayor brevedad posible.
 
-Learn Colors it is a free application but shows ads to pay developers, correct bugs, improve the application and release new versions with new features, pay the cost of the server and other intrinsic costs of the application. All donations are welcome.
+Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarolloadores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades así como pagar el servidor y los costes intrínsicos de la aplicación. Las donaciones son bienvenidas.
 
-# About the game
+# Acerca de la aplicación
 With ColorApp! 🎨 you will help the little ones to learn colors. Primary colors included plus many others (up to 16 colors for fun learning).
 
 With fun and catchy music, your child will know the colors while playing. Each color hides different animals, vehicles and many other objects that will help you expand your vocabulary. You will laugh at the explosion of colors every time you change the figure, animal or vehicle of the current color. More than 40 funny 🦊🐰🐶🍇🍓 and educational images await you!
