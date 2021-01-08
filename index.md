@@ -2,7 +2,8 @@
 
 No se recolecta ningún tipo de información, simplemente la necesaria para poder mostrar anuncios. Para preguntas, problemas o sugerencias puedes contactar con nosotros dejando un comentario en la App Store o Play Store, te contestaremos a la mayor brevedad posible.
 
-Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarolloadores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades así como pagar el servidor y los costes intrínsicos de la aplicación. Las donaciones son bienvenidas.
+Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarrolladores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades, así como pagar el servidor y los costes intrínsecos de la aplicación. Las donaciones son bienvenidas.
+
 
 # Acerca de la aplicación
 Tanto si estás pensando un nombre para tu bebé como si sientes curiosidad por saber cuánta gente hay en España con un nombre en concreto (entre muchas otras cosas más) está es la app que debes descargar.
