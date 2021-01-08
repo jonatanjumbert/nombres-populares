@@ -5,14 +5,23 @@ No se recolecta ningún tipo de información, simplemente la necesaria para pode
 Nombres populares es una aplicación gratuita pero que muestra anuncios para poder pagar a los desarolloadores, corregir bugs, mejorar la app y publicar nuevas versiones con nuevas funcionalidades así como pagar el servidor y los costes intrínsicos de la aplicación. Las donaciones son bienvenidas.
 
 # Acerca de la aplicación
-With ColorApp! 🎨 you will help the little ones to learn colors. Primary colors included plus many others (up to 16 colors for fun learning).
+Tanto si estás pensando un nombre para tu bebé como si sientes curiosidad por saber cuánta gente hay en España con un nombre en concreto (entre muchas otras cosas más) está es la app que debes descargar.
 
-With fun and catchy music, your child will know the colors while playing. Each color hides different animals, vehicles and many other objects that will help you expand your vocabulary. You will laugh at the explosion of colors every time you change the figure, animal or vehicle of the current color. More than 40 funny 🦊🐰🐶🍇🍓 and educational images await you!
+Con *Nombres Populares* tendrás la mayor selección de nombres del store al alcance de tu mano. Contamos la mayor base de datos de nombres de España. Podrás elegir tu nombre favorito entre más de **50.000 opciones**. Concretamente a día de hoy contamos con **26.492 nombres de mujer y 25.783 de hombre**.
 
-Time to learn the colors: 🎨 Yellow 🎨 Blue 🎨 Navy blue 🎨 White 🎨 Cyan 🎨 Gray 🎨 Lima 🎨 Magenta 🎨 Brown 🎨 Purple 🎨 Orange 🎨 Black 🎨 Olive 🎨 Red 🎨 Pink 🎨 Green
+Características:
+- Lista de favoritos para que guardes los nombres que más te gustan.
+- Muchas opciones de filtrado.
+- Filtra los nombres por sexo.
+- Filtra los nombres alfabéticamente.
+- Filtra por nombres más populares
+- Filtra por nombres menos común.
+- Filtra los nombres por edad.
+- Comparte tus favoritos por e-mail, mensajería instantánea y otras aplicaciones.
+- Copia los nombres en el porta-papeles.
 
-This wonderful educational game is designed for children in preschool or primary education. Complete your education by knowing colors in up to 8 different languages! Time to learn the colors in Spanish, English, Catalan, German, French, Italian, Portuguese, Romanian or Polish!
+Gracias a la aplicación de *Nombres Populares* serás capaz de encontrar nombres originales para tu bebé, tanto si es niño como niña. Escoge entre miles de nombres el más bonito y adecuado para ti. De hecho, encontrarás todos los nombres actualmente en el registro civil de España en el que al menos 20 personas tengan dicho nombre.
 
-Hours of fun and autonomy await you. Don't hesitate and download the app for the little ones in the house.
+Encuentra **nombres para bebés** cuya media de edad sea la más baja posible para ponerle así un nombre absolutamente original o selecciona un nombre clásico con una media de edad más avanzada para las personas con ese nombre. ¡Para gustos colores y en *Nombres Populares* los tenemos todos!
 
-Note: Some images shown in the app are made by Freepick, Iconic, Market Vectors, Eucalyp, Smashicons, Flat Icons of flaticon .com
+Ninguna otra aplicación te ofrecerá tantas posibilidades como esta, no lo dudes, no te defraudará :)
